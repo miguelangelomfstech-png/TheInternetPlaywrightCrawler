@@ -1,0 +1,3 @@
+com\crawler\pages\ChallengingDomPage.class
+com\crawler\utils\PerformanceService.class
+com\crawler\utils\ReporterService.class

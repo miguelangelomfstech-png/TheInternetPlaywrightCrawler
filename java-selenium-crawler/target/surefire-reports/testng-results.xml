@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-07T15:55:02 WET" name="Surefire suite" finished-at="2025-12-07T15:57:13 WET" duration-ms="131700">
+    <groups>
+    </groups>
+    <test started-at="2025-12-07T15:55:02 WET" name="Surefire test" finished-at="2025-12-07T15:57:13 WET" duration-ms="131700">
+      <class name="com.crawler.tests.DynamicCrawlTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crawler.tests.DynamicCrawlTest@731f8236]" started-at="2025-12-07T15:55:02 WET" name="setup" finished-at="2025-12-07T15:55:04 WET" duration-ms="2747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="crawlAndInteract()[pri:0, instance:com.crawler.tests.DynamicCrawlTest@731f8236]" started-at="2025-12-07T15:55:04 WET" name="crawlAndInteract" finished-at="2025-12-07T15:57:13 WET" duration-ms="128609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crawlAndInteract -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crawler.tests.DynamicCrawlTest@731f8236]" started-at="2025-12-07T15:57:13 WET" name="tearDown" finished-at="2025-12-07T15:57:13 WET" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crawler.tests.DynamicCrawlTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
